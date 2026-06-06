@@ -1,0 +1,6 @@
+{
+  "name": "Harnack-Haus Raum- und Aufgaben",
+  "description": "Ein webbasierter, vollständig responsiver Belegungs- und Aufgabenplaner für das Harnack-Haus zur Steuerung von Raumstati, Teamauslastungen und E-Mail-fertigen Statusberichten mit Google Sheets Integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
